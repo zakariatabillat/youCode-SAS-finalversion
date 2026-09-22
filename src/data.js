@@ -52,8 +52,6 @@ const apprenants = [
       },
     ],
   },
-
-  // NEW
   {
     id: 4,
     nomComplet: "Mohamed Amine",
